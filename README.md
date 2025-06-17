@@ -7,9 +7,9 @@
     
 > About ME!!.
 
-💻 Estudante de Sistema de Informação PUCPR.
+💻 Estudante de Analise e Desenvolvimento de Sistemas.
 
-📍 Moro em Curitiba, tenho 23 anos, e trabalho atualmente como técnico em informatica / HelpDesk.
+📍 Moro em Curitiba, tenho 24 anos, e trabalho atualmente como técnico em informatica / HelpDesk.
 
 ⭐ Meus hobbies são: Andar de skate, consumir conteúdo japones e qualquer coisa que eu tiver Hiperfoco on.
 
