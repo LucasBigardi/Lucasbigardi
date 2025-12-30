@@ -9,7 +9,7 @@
 
 💻 Estudante de Analise e Desenvolvimento de Sistemas.
 
-📍 Moro em Curitiba, tenho 24 anos, e trabalho atualmente como técnico em informatica / HelpDesk.
+📍 Moro em Curitiba, tenho 24 anos, e trabalho atualmente como desenvolvedor FullStack (NodeJS, React, Python, MongoDB) e Desenvolvendo prompts para agentes de IA.
 
 ⭐ Meus hobbies são: Andar de skate, consumir conteúdo japones e qualquer coisa que eu tiver Hiperfoco on.
 
