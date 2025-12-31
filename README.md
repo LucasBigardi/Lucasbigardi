@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou o Lucas Bigardi!
+# Olá, eu sou o Lucas Bigardi!
 
-💻 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🚀 Desenvolvedor **Full Stack** (Node.js, React, Python, MongoDB)  
-🧠 Também atuo criando **prompts para agentes de IA**  
-📍 Moro em **Curitiba – PR**  
-🎂 Tenho **24 anos**
+Estudante de **Análise e Desenvolvimento de Sistemas**  
+Desenvolvedor **Full Stack** (Node.js, React, Python, MongoDB)  
+Também atuo criando **prompts para agentes de IA**  
+Moro em **Curitiba – PR**  
+Tenho **24 anos**
 
 ---
 
